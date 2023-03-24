@@ -3,7 +3,8 @@ Thanks to the work of Dr. Louise Banks and state-of-the-art
 text-to-image models, it is now possible to generate images of
 Heptapod writing using the Stable Diffusion model.  The following are
 sample images produced by the model with the prompt `photo of
-heptagram, white background`.
+heptagram, white background`.  Recommended negative prompt:
+`concentric circles`.
 
 ![Generated heptapod writing](./grid.png)
 
