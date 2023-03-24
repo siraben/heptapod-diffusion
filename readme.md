@@ -1,4 +1,8 @@
 # Generating Heptapod writing with Stable Diffusion
+_Note: the technique I used to finetune Stable Diffusion with the
+Heptapod writing examples is now outdated, I will be retraining a new
+model shortly._
+
 Thanks to the work of Dr. Louise Banks and state-of-the-art
 text-to-image models, it is now possible to generate images of
 Heptapod writing using the Stable Diffusion model.  The following are
